@@ -69,7 +69,7 @@ A hands‑on PKI lab with ADCS, certificate automation, and security hardening.
 ---
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/isuruvh  
+- LinkedIn: https://www.linkedin.com/in/isuru-vijayanga-heendeniya/
 - GitHub: https://github.com/Isuruvh  
 
 ---
